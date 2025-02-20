@@ -39,7 +39,7 @@ _Key Features:_
 ### 🚀 **How to Run the Project**
 
 1️⃣ **Clone the repository:**  
-git clone https://github.com/yourusername/email-spam-classifier.git  
+git clone https://github.com/khushipawar-ux/email-spam-classifier-ml.git  
 cd email-spam-classifier  
 
 2️⃣ **Install dependencies:**  
